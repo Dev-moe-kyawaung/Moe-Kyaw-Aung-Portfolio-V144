@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://Dev-moe-kyawaung.github.io/moe-kyaw-aung-portfolio-v144/sitemap.xml
+
+# Portfolio V144 — Moe Kyaw Aung (မိုးကျော်အောင်)
+# Senior Android Developer | Tachileik, Myanmar
