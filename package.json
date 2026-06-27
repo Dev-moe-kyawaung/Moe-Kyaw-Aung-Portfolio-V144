@@ -1,0 +1,53 @@
+{
+  "name": "moe-kyaw-aung-portfolio-v144",
+  "version": "144.0.0",
+  "private": true,
+  "description": "⭐ Moe Kyaw Aung — Senior Android Developer Portfolio V144. Cyberpunk Neon React JSX single-file portfolio.",
+  "author": {
+    "name": "Moe Kyaw Aung",
+    "email": "moekyawaung@programmer.net",
+    "url": "https://gravatar.com/moekyawaung13721"
+  },
+  "homepage": "https://Dev-moe-kyawaung.github.io/moe-kyaw-aung-portfolio-v144/",
+  "keywords": [
+    "android",
+    "kotlin",
+    "jetpack-compose",
+    "portfolio",
+    "react",
+    "cyberpunk",
+    "myanmar",
+    "senior-developer",
+    "firebase",
+    "clean-architecture"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "lint": "eslint src --ext .js,.jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.4.10"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dev-moe-kyawaung/moe-kyaw-aung-portfolio-v144.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dev-moe-kyawaung/moe-kyaw-aung-portfolio-v144/issues"
+  }
+}
