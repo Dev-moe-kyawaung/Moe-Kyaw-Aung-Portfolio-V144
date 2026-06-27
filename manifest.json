@@ -1,0 +1,55 @@
+{
+  "name": "Moe Kyaw Aung — Senior Android Developer Portfolio V144",
+  "short_name": "MKA Portfolio",
+  "description": "⭐ Senior Android Developer | Kotlin | Jetpack Compose | Firebase | 12+ Years | Tachileik, Myanmar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00f0ff",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["portfolio", "developer", "android", "productivity"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778527878/IMG_20260430_053105_uef0yr.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778763536/preview_ls5ptn.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "label": "Portfolio V144 Hero Section"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Projects",
+      "url": "./#projects",
+      "description": "View GitHub projects"
+    },
+    {
+      "name": "Contact",
+      "url": "./#contact",
+      "description": "Get in touch"
+    },
+    {
+      "name": "Certificates",
+      "url": "./#certificates",
+      "description": "View 82+ certificates"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
